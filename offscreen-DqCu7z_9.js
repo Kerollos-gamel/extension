@@ -1,0 +1,1 @@
+import{t as e}from"./audioHelpers-CghkT_ti.js";chrome.runtime.onMessage.addListener(t=>{`play`in t&&e(t.play)});
